@@ -1,0 +1,7 @@
+TEAM_ID=
+
+PRODUCT_NAME=tugas1_giovanlado
+PRODUCT_BUNDLE_IDENTIFIER=org.example.giovanlado.tugas1_giovanlado$(TEAM_ID)
+
+CURRENT_PROJECT_VERSION=1
+MARKETING_VERSION=1.0
