@@ -22,10 +22,10 @@ fun App() {
             Text("Halo, Giovan Lado!")
 
             // 2. Tambahkan NIM di bawah nama
-            Text("NIM: 123140068")  // ← GANTI dengan NIM Anda
+            Text("NIM: 123140068")
 
             // 3. Tampilkan nama platform
-            Text("Platform: Desktop")  // Atau "Desktop" jika run di desktop
+            Text("Platform: Desktop")
 
             Button(
                 onClick = { showContent = !showContent }
